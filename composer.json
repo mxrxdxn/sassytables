@@ -1,6 +1,6 @@
 {
     "name": "maxweb/sassytables",
-    "description": "A sassy table class for Laravel",
+    "description": "A sassy table class for Laravel 5.",
     "type": "library",
     "license": "MIT",
     "authors": [
