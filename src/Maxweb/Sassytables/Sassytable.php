@@ -8,7 +8,7 @@ use Maxweb\Sassytables\SassyUrlConstructor;
 class Sassytable
 {
     // This is the template used for tables.
-    public $template  = 'layouts.tables.main';
+    public $template  = 'sassytables::table';
 
     // The URL.
     public $url;

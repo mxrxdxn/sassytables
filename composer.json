@@ -14,5 +14,12 @@
             "Maxweb\\Sassytables\\": "src/Maxweb/Sassytables/"
         }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Maxweb\\Sassytables\\ServiceProvider"
+            ]
+        }
+    }
 }
